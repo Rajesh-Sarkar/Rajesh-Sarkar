@@ -17,5 +17,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rajesh-Sarkar&show_icons=true&locale=en" alt="Rajesh-Sarkar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rajesh-Sarkar&" alt="Rajesh-Sarkar" /></p>
 
