@@ -1,5 +1,5 @@
 ## Hi there 👋
-Profile Views:  [![HitCount](https://hits.dwyl.com/Rajesh-Sarkar/Rajesh-Sarkar.svg?style=flat-square&show=unique)](http://hits.dwyl.com/Rajesh-Sarkar/Rajesh-Sarkar)
+Profile Views: [![HitCount](https://hits.dwyl.com/Rajesh-Sarkar/Rajesh-Sarkar.svg?style=flat-square)](http://hits.dwyl.com/Rajesh-Sarkar/Rajesh-Sarkar)
 
 - 🔭 I’m currently working on taking rest...
 - 🌱 I’m currently learning c language ...
