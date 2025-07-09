@@ -1,17 +1,3 @@
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  ... [your icons] ...
-</p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajesh-Sarkar&layout=compact)
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rajesh-Sarkar&show_icons=true&locale=en" alt="Rajesh-Sarkar" /></p>
-
-## 📊 Weekly Coding Stats
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 <h1 align="center">Hi 👋, I'm Rajesh</h1>
 <h3 align="center">With a CSE background at North South University, I have a deep interest in programming and problem-solving. Currently mastering C language, I am focused on building a strong foundation in coding and algorithmic thinking. Technology excites me, and I enjoy exploring new innovations that push the boundaries of what's possible. My goal is to develop efficient solutions and contribute to impactful projects. Every line of code is a step toward shaping the future 🌟</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXZrbDRzcnp4NWF4azZlM3FqNmZ4a2s4bHlvZDltbGZkMDN0cGtjMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
