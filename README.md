@@ -4,13 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajesh-sarkar&label=Profile%20views&color=0e75b6&style=flat" alt="Rajesh-Sarkar" /> </p>
 
-- 🌱 I’m currently learning **C language**
+- 🌱 I’m currently learning **C++ language**
 
-- 💬 Ask me about **C**
+- 💬 Ask me about **C and C++**
 
 - 📫 How to reach me **rpsrajesh1212@gmail.com**
-
-- ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3> 
 <p align="left">
