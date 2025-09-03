@@ -24,3 +24,4 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rajesh-Sarkar&show_icons=true&locale=en" alt="Rajesh-Sarkar" /></p>
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rajesh-Sarkar&theme=tokyonight">
