@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajesh-sarkar&label=Profile%20views&color=0e75b6&style=flat" alt="Rajesh-Sarkar" /> </p>
 
-- 🌱 I’m currently learning **C++ language**
+- 🌱 I’m currently learning **JavaScript**
 
 - 💬 Ask me about **C and C++**
 
